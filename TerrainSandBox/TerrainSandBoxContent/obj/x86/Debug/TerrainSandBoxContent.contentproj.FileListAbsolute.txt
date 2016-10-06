@@ -1,0 +1,2 @@
+D:\TerrainSandBox\TerrainSandBox\TerrainSandBoxContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BAM22\SkyDrive\TerrainSandBox\TerrainSandBox\TerrainSandBoxContent\obj\x86\Debug\ResolveAssemblyReference.cache
